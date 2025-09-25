@@ -1,1 +1,1 @@
-# lab2-project
+﻿Legends never die
